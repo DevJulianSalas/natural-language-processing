@@ -1,0 +1,13 @@
+services:
+  jupyter:
+    build: 
+      context: .
+    container_name: npl_course
+    volumes:
+      - ./ejercicios:/home/notebooks
+    stdin_open: true
+    tty: true
+    environment:
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "9999:9999"

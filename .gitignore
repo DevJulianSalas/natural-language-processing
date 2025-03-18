@@ -1,0 +1,51 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files created by Jupyter
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Jupyter runtime files
+~$*.ipynb
+
+# Ignore data and outputs (if needed)
+data/
+output/
+*.csv
+*.json
+*.xlsx
+*.h5
+*.hdf5
+*.parquet
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore environment files
+.env
+.DS_Store
+Thumbs.db
+
+# Ignore compiled Python files
+__pycache__/
+*.so
+
+# Ignore Jupyter metadata
+*.nbconvert.ipynb
+*.nb.html
+*.nb.json
+
+# Ignore package management files
+dist/
+build/
+*.egg-info/
+
+.devcontainer/*
+
+notes.md
