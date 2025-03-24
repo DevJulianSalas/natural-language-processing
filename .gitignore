@@ -49,3 +49,5 @@ build/
 .devcontainer/*
 
 notes.md
+
+*.pkl
