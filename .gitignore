@@ -51,3 +51,6 @@ build/
 notes.md
 
 *.pkl
+
+
+.gradio/
