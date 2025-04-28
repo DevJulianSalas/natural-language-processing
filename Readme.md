@@ -60,7 +60,7 @@ Cada carpeta contiene un notebook `desafio.ipynb` o `desafio_4.ipynb` con el des
   - Implementación de un modelo **Encoder-Decoder**.
   - Uso de **teacher forcing** para mejorar el entrenamiento.
   - Generación automática de respuestas.
-- **Conceptos clave**: Compresión de contexto, generación secuencial, traducción de secuencias.
+- **Conceptos clave**: Compresión de contexto, generación secuencial, respuestas a preguntas.
 
 ## 🚀 ¿Cómo ejecutar los desafíos?
 
