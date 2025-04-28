@@ -103,5 +103,4 @@ pip install -r requirements.txt
 
 - Modelos generativos: Implementamos un pipeline completo de entrada/salida usando Encoder/Decoder, abriendo la puerta a tareas más complejas como chatbots, traducción automática o resumen de texto.
 
-
-Reflexión final: La comprensión profunda de cómo representamos, procesamos y generamos secuencias es esencial para resolver problemas reales de NLP y preparar el terreno hacia arquitecturas aún más potentes como Transformers.
+- La comprensión profunda de cómo representamos, procesamos y generamos secuencias es esencial para resolver problemas reales de NLP y preparar el terreno hacia arquitecturas aún más potentes como Transformers.
